@@ -6,10 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=keshav20004&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
-<div align="center">
-  <img src="https://github.com/keshav20004.png" width="140"><br/>
-  <h2>⚔️ Hustling towards that Product SDE Dream ⚔️</h2>
-</div>
+
 
 ---
 
