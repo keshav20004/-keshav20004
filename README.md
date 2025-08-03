@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Keshav+Bajpai;GenAI+Enthusiast+%7C+Aspiring+SDE;Building+cool+sh*t+since+2022" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Heyy...+I'm+Keshav+Bajpai;GenAI+Tinkerer+🧠;Future+SDE+in+Progress👨‍💻;Coffee%2C+Code%2C+Chaos+%7E" alt="Typing SVG" />
+  <img src="https://readme-typing-gif.s3.amazonaws.com/hustling-keshav.gif" alt="typing GIF"/>
 </p>
 
 <p align="center">
@@ -18,7 +14,7 @@
 ---
 
 ### 💡 What I'm up to
-- 🎓 4rd Yr AIML • AKTU
+- 🎓 4th Yr AIML • AKTU
 - 🤖 Building GenAI/ML projects using Gemini, OpenCV, Python, JavaScript
 - ⚒️ Grinding DSA + System Design
 - ✨ Side quest: Becoming a better engineer every damn day
@@ -48,9 +44,9 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:keshavbajpaiofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/keshavbajpai/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://keshavbajpai.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:ikeshav62@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/keshav-bajpai-3409322b6/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://keshav01.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
