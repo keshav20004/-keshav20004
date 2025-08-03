@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshav20004&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Keshav+Bajpai;GenAI+Enthusiast+%7C+Aspiring+SDE;Building+cool+sh*t+since+2022" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Heyy...+I'm+Keshav+Bajpai;GenAI+Tinkerer+🧠;Future+SDE+in+Progress👨‍💻;Coffee%2C+Code%2C+Chaos+%7E" alt="Typing SVG" />
 </p>
